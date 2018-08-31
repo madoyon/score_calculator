@@ -80,7 +80,7 @@ while(True) :
     welcome = """
     Welcome to the score calculator!!!\n
     Using this tool, you will be able to calculate your present course and receive estimation according to your scores\n
-    You will need your exams scores and ponderation of each of them\n
+    You will need your xams scores and ponderation of each of them\n
     Let's get started!\n
     """
     print(welcome)
@@ -100,7 +100,6 @@ while(True) :
             try:
                 s,p = input("Enter your exam result and the ponderation : ").split()
                 exam = (int(s),int(p))
-                print(name_course.name)
                 tests.append(exam)
                 
             except ValueError:
