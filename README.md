@@ -1,5 +1,5 @@
 # Score Calculator
-Small project with Python to build a calculator for score according to ponderation.
+Small project with Python to build a calculator for score according to ponderation. Usefull to calculate score at school.
 ### Motivation
 Get use to python syntax, git hub repo and help the girlfriend to calculate faster her scores at University.
 ### Prerequisites
